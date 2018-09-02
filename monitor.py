@@ -10,7 +10,7 @@ interval = 60
 #Choose either UK, US or CA
 region = "US"
 #Enter your discord webhook here
-webhook = "https://discordapp.com/api/webhooks/481575717704957963/3Z0IzocAwigylZmQT0mXdxQ8j21MjYj4tnF7uzmIn9a3zsonyPh7ad-lZHAiHgQcw8qr"
+webhook = ""
 #If you want to use proxies, set useproxies to True and enter your proxies on individual lines in a file in the same relative directory called proxies.txt
 useproxies = True
 
